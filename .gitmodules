@@ -1,0 +1,12 @@
+[submodule "Page"]
+	path = Page
+	url = ./Page
+[submodule "User"]
+	path = User
+	url = ./User
+[submodule "CommonLib"]
+	path = CommonLib
+	url = ./CommonLib
+[submodule "Backend"]
+	path = Backend
+	url = ./Backend

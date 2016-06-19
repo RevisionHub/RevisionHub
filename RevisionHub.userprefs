@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="BackendServer.cproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Page/Program.fs">
+    <Files>
+      <File FileName="CommonLib/Component1.fs" Line="39" Column="38" />
+      <File FileName="Page/Program.fs" Line="76" Column="5" />
+      <File FileName="User/Program.fs" Line="10" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/harlan/BackendServer/backend.c" line="222" column="1" />
+      <Breakpoint file="/home/harlan/BackendServer/Page/Program.fs" line="72" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
