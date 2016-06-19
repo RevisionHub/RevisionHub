@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="BackendServer.cproj">
+﻿<Properties StartupItem="Page/Page.fsproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Page/Program.fs">
     <Files>
