@@ -1,12 +1,12 @@
 [submodule "Page"]
 	path = Page
-	url = ./Page
+	url = git@github.com:RevisionHub/Backend.git
 [submodule "User"]
 	path = User
-	url = ./User
+	url = git@github.com:RevisionHub/User.git
 [submodule "CommonLib"]
 	path = CommonLib
-	url = ./CommonLib
+	url = git@github.com:RevisionHub/CommonLib.git
 [submodule "Backend"]
 	path = Backend
-	url = ./Backend
+	url = git@github.com:RevisionHub/Backend.git
