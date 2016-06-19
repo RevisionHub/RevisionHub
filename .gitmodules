@@ -1,6 +1,6 @@
 [submodule "Page"]
 	path = Page
-	url = git@github.com:RevisionHub/Backend.git
+	url = git@github.com:RevisionHub/Page.git
 [submodule "User"]
 	path = User
 	url = git@github.com:RevisionHub/User.git
