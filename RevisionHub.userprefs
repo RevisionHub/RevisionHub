@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="Page/Page.fsproj">
+﻿<Properties StartupItem="User/User.fsproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Page/Program.fs">
     <Files>
