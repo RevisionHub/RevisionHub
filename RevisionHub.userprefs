@@ -1,16 +1,19 @@
-﻿<Properties StartupItem="User/User.fsproj">
+﻿<Properties StartupItem="WebSocket/WebSocket.cproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Page/Program.fs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebSocket/main.c">
     <Files>
-      <File FileName="CommonLib/Component1.fs" Line="39" Column="38" />
-      <File FileName="Page/Program.fs" Line="76" Column="5" />
-      <File FileName="User/Program.fs" Line="10" Column="24" />
+      <File FileName="CommonLib/Component1.fs" Line="1" Column="1" />
+      <File FileName="Page/Program.fs" Line="1" Column="1" />
+      <File FileName="User/Program.fs" Line="22" Column="15" />
+      <File FileName="Backend/backend.c" Line="1" Column="1" />
+      <File FileName="WebSocket/main.c" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/home/harlan/BackendServer/backend.c" line="222" column="1" />
       <Breakpoint file="/home/harlan/BackendServer/Page/Program.fs" line="72" column="1" />
+      <Breakpoint file="/home/harlan/RevisionHub/User/Program.fs" line="35" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
