@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="WebSocket/WebSocket.cproj">
+﻿<Properties StartupItem="Backend/Backend.cproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="WebSocket/main.c">
     <Files>
@@ -17,4 +17,7 @@
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>WebSocket/WebSocket.cproj</String>
+  </DisabledProjects>
 </Properties>
