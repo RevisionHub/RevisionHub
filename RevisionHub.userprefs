@@ -1,12 +1,11 @@
-﻿<Properties StartupItem="Backend/Backend.cproj">
+﻿<Properties StartupItem="Page/Page.fsproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebSocket/main.c">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Backend/backend.c">
     <Files>
       <File FileName="CommonLib/Component1.fs" Line="1" Column="1" />
-      <File FileName="Page/Program.fs" Line="1" Column="1" />
-      <File FileName="User/Program.fs" Line="22" Column="15" />
-      <File FileName="Backend/backend.c" Line="1" Column="1" />
-      <File FileName="WebSocket/main.c" Line="11" Column="1" />
+      <File FileName="Page/Program.fs" Line="72" Column="45" />
+      <File FileName="User/Program.fs" Line="18" Column="16" />
+      <File FileName="Backend/backend.c" Line="47" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

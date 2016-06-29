@@ -116,10 +116,11 @@ typedef enum PayloadVerb_enum
 	Post,
 	GotPost
 }PayloadVerb;
-typedef struct Packet_struct
+typedef struct __attribute__((__packed__))
 {
-	int payloadsize __attribute__((__packed__));
-	PayloadVerb payloadverb __attribute__((__packed__));
+	int payloadsize;
+	PayloadVerb payloadverb;
+	unsigned char session[24];
 	unsigned char payload[0];
 } Packet;
 #define PACKET_HEADER_SIZE sizeof(Packet)
